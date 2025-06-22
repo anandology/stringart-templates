@@ -3,126 +3,68 @@
   <g transform="scale(1 -1)">
     <circle cx="0" cy="0" r="151.1811023622047" stroke="red" fill="none" />
     <g>
-      <g transform="rotate(0.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(12.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(24.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(36.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(48.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(60.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(72.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(84.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(96.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(108.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(120.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(132.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(144.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(156.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(168.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(180.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(192.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(204.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(216.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(228.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(240.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(252.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(264.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(276.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(288.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(300.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(312.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(324.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(336.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
-      <g transform="rotate(348.0) translate(0 -151.1811023622047)">
-        <line x1="0" y1="0" x2="0" y2="15.118110236220472" stroke="black" />
-        <circle cx="0" cy="18.89763779527559" r="3.779527559055118" stroke="black" fill="none" />
-      </g>
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(0.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(12.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(24.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(36.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(48.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(60.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(72.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(84.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(96.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(108.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(120.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(132.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(144.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(156.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(168.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(180.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(192.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(204.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(216.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(228.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(240.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(252.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(264.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(276.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(288.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(300.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(312.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(324.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(336.0)" />
+      <circle cx="0" cy="113.38582677165354" r="3.779527559055118" stroke="black" fill="none" transform="rotate(348.0)" />
+    </g>
+    <g>
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(0.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(12.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(24.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(36.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(48.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(60.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(72.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(84.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(96.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(108.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(120.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(132.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(144.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(156.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(168.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(180.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(192.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(204.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(216.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(228.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(240.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(252.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(264.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(276.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(288.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(300.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(312.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(324.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(336.0)" />
+      <line x1="0" y1="151.1811023622047" x2="0" y2="136.06299212598424" stroke="black" transform="rotate(348.0)" />
     </g>
   </g>
 </g>
